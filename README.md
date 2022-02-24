@@ -1,4 +1,4 @@
-# Hi! I'm Jesse ✌️
+# **Hi! I'm Jesse** ✌️
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jesserds&color=yellow" alt="Profile views"/></p>
 
 ### 🌱 What I’m currently learning:
